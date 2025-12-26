@@ -1,0 +1,6 @@
+C:\Users\Александр\source\repos\LibrarsStraightLine\LibrarsStraightLine\bin\Debug\LibrarsStraightLine.dll
+C:\Users\Александр\source\repos\LibrarsStraightLine\LibrarsStraightLine\bin\Debug\LibrarsStraightLine.pdb
+C:\Users\Александр\source\repos\LibrarsStraightLine\LibrarsStraightLine\obj\Debug\LibrarsStraightLine.csproj.AssemblyReference.cache
+C:\Users\Александр\source\repos\LibrarsStraightLine\LibrarsStraightLine\obj\Debug\LibrarsStraightLine.csproj.CoreCompileInputs.cache
+C:\Users\Александр\source\repos\LibrarsStraightLine\LibrarsStraightLine\obj\Debug\LibrarsStraightLine.dll
+C:\Users\Александр\source\repos\LibrarsStraightLine\LibrarsStraightLine\obj\Debug\LibrarsStraightLine.pdb
