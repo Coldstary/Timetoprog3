@@ -1,0 +1,13 @@
+C:\Users\Александр\source\repos\PointBilderProject\PointBilderProject\bin\Debug\PointBilderProject.exe
+C:\Users\Александр\source\repos\PointBilderProject\PointBilderProject\bin\Debug\PointBilderProject.pdb
+C:\Users\Александр\source\repos\PointBilderProject\PointBilderProject\obj\Debug\PointBilderProject.csproj.AssemblyReference.cache
+C:\Users\Александр\source\repos\PointBilderProject\PointBilderProject\obj\Debug\PointBilderProject.Properties.Resources.resources
+C:\Users\Александр\source\repos\PointBilderProject\PointBilderProject\obj\Debug\PointBilderProject.csproj.GenerateResource.cache
+C:\Users\Александр\source\repos\PointBilderProject\PointBilderProject\obj\Debug\PointBilderProject.csproj.CoreCompileInputs.cache
+C:\Users\Александр\source\repos\PointBilderProject\PointBilderProject\obj\Debug\PointBilderProject.exe
+C:\Users\Александр\source\repos\PointBilderProject\PointBilderProject\obj\Debug\PointBilderProject.pdb
+C:\Users\Александр\source\repos\PointBilderProject\PointBilderProject\bin\Debug\LibrarsStraightLine.dll
+C:\Users\Александр\source\repos\PointBilderProject\PointBilderProject\obj\Debug\PointBil.FDEA7C77.Up2Date
+C:\Users\Александр\source\repos\PointBilderProject\PointBilderProject\obj\Debug\PointBilderProject.Parallel_OX_Check.resources
+C:\Users\Александр\source\repos\PointBilderProject\PointBilderProject\bin\Debug\PointBilderProject.xml
+C:\Users\Александр\source\repos\PointBilderProject\PointBilderProject\bin\Debug\LibrarsStraightLine.pdb
