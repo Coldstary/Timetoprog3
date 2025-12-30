@@ -1,0 +1,10 @@
+C:\Users\Александр\source\repos\WordWork19\WordWork19\bin\Debug\WordWork19.exe
+C:\Users\Александр\source\repos\WordWork19\WordWork19\bin\Debug\WordWork19.pdb
+C:\Users\Александр\source\repos\WordWork19\WordWork19\obj\Debug\WordWork19.csproj.AssemblyReference.cache
+C:\Users\Александр\source\repos\WordWork19\WordWork19\obj\Debug\WordWork19.csproj.ResolveComReference.cache
+C:\Users\Александр\source\repos\WordWork19\WordWork19\obj\Debug\WordWork19.Form1.resources
+C:\Users\Александр\source\repos\WordWork19\WordWork19\obj\Debug\WordWork19.Properties.Resources.resources
+C:\Users\Александр\source\repos\WordWork19\WordWork19\obj\Debug\WordWork19.csproj.GenerateResource.cache
+C:\Users\Александр\source\repos\WordWork19\WordWork19\obj\Debug\WordWork19.csproj.CoreCompileInputs.cache
+C:\Users\Александр\source\repos\WordWork19\WordWork19\obj\Debug\WordWork19.exe
+C:\Users\Александр\source\repos\WordWork19\WordWork19\obj\Debug\WordWork19.pdb
