@@ -1,0 +1,9 @@
+C:\Users\Александр\source\repos\CsvWork21new\CsvWork21new\bin\Debug\CsvWork21new.exe
+C:\Users\Александр\source\repos\CsvWork21new\CsvWork21new\bin\Debug\CsvWork21new.pdb
+C:\Users\Александр\source\repos\CsvWork21new\CsvWork21new\obj\Debug\CsvWork21new.csproj.AssemblyReference.cache
+C:\Users\Александр\source\repos\CsvWork21new\CsvWork21new\obj\Debug\CsvWork21new.CSVfilter.resources
+C:\Users\Александр\source\repos\CsvWork21new\CsvWork21new\obj\Debug\CsvWork21new.Properties.Resources.resources
+C:\Users\Александр\source\repos\CsvWork21new\CsvWork21new\obj\Debug\CsvWork21new.csproj.GenerateResource.cache
+C:\Users\Александр\source\repos\CsvWork21new\CsvWork21new\obj\Debug\CsvWork21new.csproj.CoreCompileInputs.cache
+C:\Users\Александр\source\repos\CsvWork21new\CsvWork21new\obj\Debug\CsvWork21new.exe
+C:\Users\Александр\source\repos\CsvWork21new\CsvWork21new\obj\Debug\CsvWork21new.pdb
